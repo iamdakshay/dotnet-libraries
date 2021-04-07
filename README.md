@@ -1,8 +1,8 @@
 # Libraries for dotnet based applications
 
-|    |  Project  |    |
+|    |  Project  |  Description  |
 |  -  |  ----  |  ----  |
-|  1  |  Configuration extension for Amazon Secrets Manager <br/><kbd>[project](https://www.nuget.org/packages/Aksd.Extensions.Configuration.AmazonSecretsManager/)</kbd><kbd>[nuget-package](https://www.nuget.org/packages/Aksd.Extensions.Configuration.AmazonSecretsManager/)</kbd><kbd>[usage](#amazon-secrets-manager-configuration-extension)</kbd>  |  Amazon Secrets Manager service provides secure store for key/value pairs.<br/>Unlike parameter store, the data stored in Secrets Manager is encrypted by default.<br/>You can use an extension to load config values in application's Configuration object.<br/>You must have saved config values in JSON format against keys in Secrets Manager.  |    |
+|  1  |  Configuration extension for Amazon Secrets Manager <br/><kbd>[project](https://github.com/iamdakshay/dotnet-libraries/tree/main/src/Aksd.Extensions.Configuration.AmazonSecretsManager)</kbd><kbd>[nuget-package](https://www.nuget.org/packages/Aksd.Extensions.Configuration.AmazonSecretsManager/)</kbd><kbd>[usage](#amazon-secrets-manager-configuration-extension)</kbd>  |  Amazon Secrets Manager service provides secure store for key/value pairs. Unlike parameter store, the data stored in Secrets Manager is encrypted by default.<br/>You can use an extension to load config values in application's Configuration object. You must have saved config values in JSON format against keys in Secrets Manager.  |
 
 
 <br/>
